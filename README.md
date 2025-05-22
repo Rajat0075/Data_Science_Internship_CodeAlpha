@@ -1,6 +1,14 @@
 # Data_Science_Internship_CodeAlpha
 
-<strong>Name:<strong/> Rajat Kumar <br/>
-<strong>Internship:<strong/> Data Science  <br/>
-<strong>Company:<strong/> CodeAlpha <br/>
+<ul>
+  <li><b>Name:</b> Rajat Kumar </li>
+  <li><b>Internship:</b> Data Science</li>
+  <li><b>Company:</b> CodeAlpha</li>
+</ul>
 
+Projects/Tasks:-
+<ul>
+  <li>Unemployment Analysis with Python</li>
+  <li>Car Price Prediction with Machine Learning</li>
+  <li>Sales Prediction with Python</li>
+</ul>
