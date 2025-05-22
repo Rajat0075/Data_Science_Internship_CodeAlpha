@@ -12,3 +12,6 @@ Projects/Tasks:-
   <li>Car Price Prediction with Machine Learning</li>
   <li>Sales Prediction with Python</li>
 </ul>
+
+#Unemployment Analysis
+<img src="Bar_Unemploy_Region.png" />
