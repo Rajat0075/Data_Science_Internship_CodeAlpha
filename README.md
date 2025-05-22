@@ -1,6 +1,6 @@
 # Data_Science_Internship_CodeAlpha
 
-Name: Rajat Kumar
-Internship: Data Science
-Company: CodeAlpha
+<strong>Name:<strong/> Rajat Kumar <br/>
+<strong>Internship:<strong/> Data Science  <br/>
+<strong>Company:<strong/> CodeAlpha <br/>
 
