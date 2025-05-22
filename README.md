@@ -14,4 +14,4 @@ Projects/Tasks:-
 </ul>
 
 #Unemployment Analysis
-<img src="Bar_Unemploy_Region.png" />
+<img src="Bar Unemploy_Region.png" />
