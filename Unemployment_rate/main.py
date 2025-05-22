@@ -17,9 +17,6 @@ print(df.shape)
 x = df['Region'] #plotting column 'Region' on x-axis
 y = df[' Estimated Unemployment Rate (%)'] #plotting column 'Rate' on y-axis
 
-dfz = df.iloc[:,3]
-print(dfz)
-
 #Analyzing Data By Graphs
 rue = px.bar(df,x=x,y=y,color='Region',title='Unemployment Rate (Region Wise) by Bar Origin',template='plotly')
 rue.update_layout(xaxis={'categoryorder':'total descending'})
